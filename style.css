@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+:root{
+    --primary-color:#7dcecf;
+    --secondary-color:#deaf75;
+}
+
+.right
+{
+    background-color:var(--primary-color);
+}
+
+h1 i{
+    color:var(--primary-color);
+}
+
+.name{
+    background-color: var(--secondary-color);
+    
+}
+
+.contact > ul li{
+    background-color: var(--primary-color);
+}
